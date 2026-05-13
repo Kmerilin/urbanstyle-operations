@@ -1,10 +1,9 @@
-# urbanstyle-operations
-# [Meeskonna nimi] -- UrbanStyle.ltd Andmemeeskond
+# Operations -- UrbanStyle.ltd Andmemeeskond
    ## Meeskonnaliikmed
-   | Merilin |  (Nädal 1) | OS |
-   | [Sirli | A: Data Extraction | Win/Mac |
-   | [Liia | B: Data Processing | Win/Mac |
-   ...jne kõigi liikmete jaoks
+   | Nimi | Roll (Nädal 1) | OS |
+   | Merilin | A: Data Extraction | Mac |
+   | Kairi | B: Data Processing | Win |
+   | Sirli | C: Visualization | Win |
+  
    ## Meie eesmärk
-   [eesmärk on jõuda edasi järgmisesse nädalasse]
-   
+   Meie eesmärk on omandada andmeanalüütiku põhitõed. 
