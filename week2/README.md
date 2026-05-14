@@ -1,4 +1,4 @@
-** WEEK 2: Tiimi koondraport **
+**WEEK 2: Tiimi koondraport**
 
 1. Mis oli suurim üllatus?
 
