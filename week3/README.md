@@ -1,6 +1,6 @@
 # Nädal 3: SQL Join'id -- UrbanStyle'i andmete uurimine
 
-## Mida ma tegin
+## Mida ma tegin - Kairi
 ALAÜLESANDE KAART B — Kliendid ilma ostudeta (LEFT JOIN + NULL)
  - roll - Roll B: "Kadunud klientide" tuvastamine
  - ülesanne - LEFT JOIN: millised kliendid pole kunagi midagi ostnud? Koosta Anna jaoks "kadunud klientide" nimekiri koos soovitustega.
